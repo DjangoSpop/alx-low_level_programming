@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # C - Bit manipulation
 
 In this project, I learned how to manipulate bits and use the
@@ -63,3 +64,6 @@ functions written in the project.
 * **7. Crackme3**
   * [101-password](./101-password): File containing the password for the
   [crackme3](https://github.com/holbertonschool/0x13.c) executable.
+=======
+we can do anything that we can do the bit maniplation
+>>>>>>> refs/remotes/origin/main
