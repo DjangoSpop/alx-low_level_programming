@@ -1,7 +1,4 @@
-/*
- * File: 100-elf_header.c
- * Auth: Igbe Besthor
- */
+
 
 #include <elf.h>
 #include <sys/types.h>
