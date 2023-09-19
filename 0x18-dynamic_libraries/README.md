@@ -1,0 +1,1 @@
+we gone know whats the dynamic laibariyies in c and how to implement it 
