@@ -7,7 +7,7 @@ CC = gcc
 CFLAGS = -Wall -Wextra -g
 
 # Source files
-SRC = main.c file1.c file2.c  # Add your source files here
+SRC = main.c school.c m.h  # Add your source files here
 
 # Object files
 OBJS = $(SRC:.c=.o)
