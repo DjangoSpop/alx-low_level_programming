@@ -1,6 +1,9 @@
 #include "search_algos.h"
 #include <stdio.h>
 
+#include "search_algos.h"
+#include <stdio.h>
+
 /**
  * print_array - Prints an array of integers
  * @array: The array to be printed
@@ -40,8 +43,8 @@ int binary_search(int *array, size_t size, int value)
 
     while (left <= right)
     {
-        mid = left + (right - left) / 2;
         print_array(array + left, right - left + 1);
+        mid = left + (right - left) / 2;
 
         if (array[mid] == value)
             return mid;
